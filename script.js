@@ -3,7 +3,6 @@ const listItems = document.querySelector("#listItems");
 const num = document.querySelector(".num")
 
 let totalList = 0;
-let removeList = 1;
 
 
 item.addEventListener("keyup",(e)=>{
